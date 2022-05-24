@@ -174,7 +174,7 @@ let dvd;
 let r, g, b;
 
 function preload() {
-    dvd = loadImage(`movimiento.png`);
+    dvd = loadImage(`assets/img/movimiento.png`);
 }
 
 function setup() {
